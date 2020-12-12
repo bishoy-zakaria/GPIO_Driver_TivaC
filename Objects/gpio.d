@@ -1,0 +1,9 @@
+.\objects\gpio.o: GPIO.c
+.\objects\gpio.o: GPIO_Cfg.h
+.\objects\gpio.o: GPIO.h
+.\objects\gpio.o: .\headers\MCU.h
+.\objects\gpio.o: .\headers\STD.h
+.\objects\gpio.o: .\headers\MCU_Regs.h
+.\objects\gpio.o: .\headers\Bit_Math.h
+.\objects\gpio.o: .\headers\MCU_Lcfg.h
+.\objects\gpio.o: .\headers\MCU.h
